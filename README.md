@@ -1,3 +1,3 @@
 ### Hello 👋
 
-I'm currently working on my Physics BS and advancing my skills with general data analytics.
+I'm currently wrapping my BS in Physics and developing my skills with general data engineering.
