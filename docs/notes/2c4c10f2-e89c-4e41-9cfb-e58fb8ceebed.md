@@ -14,7 +14,8 @@ permalink: /
 ---
 # Welcome to Dendron
 
+This is a test of math: $$e=mc^2$$
+
 This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. 
 
-This is a test of math: $$e=mc^2$$
 

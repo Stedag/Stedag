@@ -25,3 +25,7 @@ defaults:
     values:
       layout: "default"
       image: "/assets/images/logo.png"
+
+enable_mathjax: true;
+kramdown:
+  math_engine: mathjax
