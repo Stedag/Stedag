@@ -2,7 +2,7 @@
 id: 2c4c10f2-e89c-4e41-9cfb-e58fb8ceebed
 title: Root
 desc: ''
-updated: 1606419166803
+updated: 1606419430868
 created: 1606417027630
 ---
 # Welcome to Dendron
@@ -15,6 +15,6 @@ $$
 e=mc^2
 $$
 
-Other math delimiters \[e=mc^2\] (e=mc^2)
+Other math delimiters  \[e=mc^2\]  (e=mc^2) $e=mc^2$
 
-\[e=mc^2\] (e=mc^2)
+\[e=mc^2\] (e=mc^2) $e=mc^2$
