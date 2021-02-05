@@ -1,10 +1,16 @@
 version: 1
 vaults:
     -
-        fsPath: 'E:\cb\Stedag\vault'
+        fsPath: 'vault'
 site:
     copyAssets: true
     siteHierarchies:
         - root
     siteRootDir: docs
     usePrettyRefs: true
+    gh_edit_repository: "https://github.com/stedag/stedag"
+    siteUrl: "https://stedag.me"
+    githubCname: "stedag.me"
+    title: Stephen's notes
+    author: "stedag" 
+    gh_edit_branch: master

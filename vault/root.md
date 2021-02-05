@@ -1,20 +1,15 @@
 ---
-id: 2c4c10f2-e89c-4e41-9cfb-e58fb8ceebed
+id: 2025b734-c4e1-4d49-ae02-60ce7e0ff083
 title: Root
 desc: ''
-updated: 1606419430868
-created: 1606417027630
+updated: 1609959968245
+created: 1609899020137
 ---
-# Welcome to Dendron
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. 
+# Stephen's Portfolio
 
-This is a test of math: $$e=mc^2$$ ... apparently using $$ delimiters in a block is presented as an inline equation.
+Some of my projects can be found here. 
 
-$$
-e=mc^2
-$$
+I'm seeding this site with documentation of my [[100 days of code]], and my less formal commitment to [[100 days of physics]].
 
-Other math delimiters  \[e=mc^2\]  (e=mc^2) $e=mc^2$
-
-\[e=mc^2\] (e=mc^2) $e=mc^2$
+Updates may include past school-work, research, and even some woodworking I have done.
