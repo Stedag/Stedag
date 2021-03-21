@@ -10,6 +10,8 @@ created: 1609899020137
 
 Some of my projects can be found here. 
 
-I'm seeding this site with documentation of my [[100 days of code]], and my less formal commitment to [[100 days of physics]].
+![](/assets/images/git-scroll.gif)
+
+^ recent evolution of my personal knowledge base
 
 Updates may include past school-work, research, and even some woodworking I have done.
