@@ -1,4 +1,3 @@
-version: 1
 vaults:
     -
         fsPath: 'vault'
@@ -7,10 +6,19 @@ site:
     siteHierarchies:
         - root
     siteRootDir: docs
+    copyAssets: true
     usePrettyRefs: true
-    gh_edit_repository: "https://github.com/stedag/stedag"
-    siteUrl: "https://stedag.me"
-    githubCname: "stedag.me"
+    gh_edit_repository: 'https://github.com/stedag/stedag'
+    siteUrl: "https://stedag.io"
+    siteLastModified: true
+    githubCname: "stedag.io"
     title: Stephen's notes
     author: "stedag" 
     gh_edit_branch: master
+    description: >-
+        Stephen is searching for engineering roles.
+usePrettyRefs: true
+version: 1
+useFMTitle: true
+mermaid: true
+useNoteTitleForLink: true
